@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nganga Kamau, a data engineer with deep interest in using the Machine learning and deep learning to solve real world problems.
+- 👋 Hi, I’m Nganga Kamau, a back end web developer and data engineer with deep interest in using Machine learning and deep learning to solve real world problems.
 - I'm an avid Pythonista and I use it for both web development and machine learning...
 - I'm also learning mobile development in Kotlin, as well as diving deeper into back-end systems and DevOps.
 - 📫 How to reach me:
