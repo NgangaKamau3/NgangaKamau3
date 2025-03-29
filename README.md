@@ -1,12 +1,3 @@
-- 👋 Hi, I’m Nganga Kamau, a back end web developer and data engineer with deep interest in using Machine learning and deep learning to solve real world problems.
-- I'm an avid Pythonista and I use it for both web development and machine learning...
-- I'm also learning mobile development in Kotlin, as well as diving deeper into back-end systems and DevOps.
-- 📫 How to reach me:
-- Email: ngangajohn23405@gmail.com
-- Telephone: +254715294225
-- Instagram: https://www.instagram.com/nganga_.kamau/
-- 😄 Pronouns: He/Him
-
 # 💫 About Me:
 👋 Hi, I’m Nganga Kamau, a data engineer with deep interest in using the Machine learning and deep learning to solve real world problems.<br>I'm an avid Pythonista and I use it for both web development and machine learning...<br>I'm also learning mobile development in Kotlin, as well as diving deeper into back-end systems and DevOps.<br>📫 How to reach me:<br>Email: ngangajohn23405@gmail.com<br>Telephone: +254715294225<br>Instagram: https://www.instagram.com/nganga_.kamau/<br>😄 Pronouns: He/Him
 
