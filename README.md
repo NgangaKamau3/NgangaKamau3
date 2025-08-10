@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nganga Kamau, and I have deep interest in using Machine learning and deep learning to solve real world problems.<br>I'm an avid Pythonista and I use it for both web development and machine learning...<br>I'm currently diving deeper into back-end systems and DevOps.<br>📫 How to reach me:<br>Email: ngangajohn23405@gmail.com<br>Telephone: +254715294225<br>Instagram: https://www.instagram.com/nganga_.kamau/<br>😄 Pronouns: He/Him
+👋 Hi, I’m Nganga Kamau, and I have deep interest in using Machine learning and deep learning to solve real world problems.<br>I'm an avid Pythonista and I use it for both web development and machine learning...<br>I'm currently diving deeper into back-end systems and DevOps.<br>📫 How to reach me:<br>Email: ngangajohn23405@gmail.com<br>Instagram: https://www.instagram.com/nganga_.kamau/<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
